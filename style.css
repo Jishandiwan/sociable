@@ -44,9 +44,13 @@ body {
 
 @media only screen and (max-width:430px){
 
+    .left-div-3 {
+        margin-right: -100px !important;
+    }
+
     .img-12 {
-        height: 350px !important;
-        left: 50px !important;
+        height: 300px !important;
+        left: 20px !important;
     }
 
     .img-1{
